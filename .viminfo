@@ -23,18 +23,18 @@
 # Registers:
 
 # File marks:
-'0  1  0  ~/.ssh/id_rsa.pub
-|4,48,1,0,1731325068,"~/.ssh/id_rsa.pub"
-'1  1  0  ~/id_rsa.pub
-|4,49,1,0,1731324875,"~/id_rsa.pub"
+'0  1  13  ~/.ssh/id_rsa.pub
+|4,48,1,13,1731328480,"~/.ssh/id_rsa.pub"
+'1  1  0  ~/.ssh/id_rsa.pub
+|4,49,1,0,1731325068,"~/.ssh/id_rsa.pub"
 '2  1  0  ~/id_rsa.pub
-|4,50,1,0,1731324629,"~/id_rsa.pub"
-'3  1  13  ~/id_rsa.pub
-|4,51,1,13,1731320452,"~/id_rsa.pub"
+|4,50,1,0,1731324875,"~/id_rsa.pub"
+'3  1  0  ~/id_rsa.pub
+|4,51,1,0,1731324629,"~/id_rsa.pub"
 '4  1  13  ~/id_rsa.pub
 |4,52,1,13,1731320452,"~/id_rsa.pub"
-'5  1  0  ~/id_rsa.pub
-|4,53,1,0,1731306754,"~/id_rsa.pub"
+'5  1  13  ~/id_rsa.pub
+|4,53,1,13,1731320452,"~/id_rsa.pub"
 '6  1  0  ~/id_rsa.pub
 |4,54,1,0,1731306754,"~/id_rsa.pub"
 '7  1  0  ~/id_rsa.pub
@@ -42,9 +42,11 @@
 '8  1  0  ~/id_rsa.pub
 |4,56,1,0,1731306754,"~/id_rsa.pub"
 '9  1  0  ~/id_rsa.pub
-|4,57,1,0,1731306740,"~/id_rsa.pub"
+|4,57,1,0,1731306754,"~/id_rsa.pub"
 
 # Jumplist (newest first):
+-'  1  13  ~/.ssh/id_rsa.pub
+|4,39,1,13,1731328480,"~/.ssh/id_rsa.pub"
 -'  1  0  ~/.ssh/id_rsa.pub
 |4,39,1,0,1731325068,"~/.ssh/id_rsa.pub"
 -'  1  0  ~/id_rsa.pub
@@ -52,9 +54,21 @@
 -'  1  0  ~/id_rsa.pub
 |4,39,1,0,1731324875,"~/id_rsa.pub"
 -'  1  0  ~/id_rsa.pub
+|4,39,1,0,1731324875,"~/id_rsa.pub"
+-'  1  0  ~/id_rsa.pub
+|4,39,1,0,1731324875,"~/id_rsa.pub"
+-'  1  0  ~/id_rsa.pub
 |4,39,1,0,1731324629,"~/id_rsa.pub"
 -'  1  0  ~/id_rsa.pub
 |4,39,1,0,1731324629,"~/id_rsa.pub"
+-'  1  0  ~/id_rsa.pub
+|4,39,1,0,1731324629,"~/id_rsa.pub"
+-'  1  0  ~/id_rsa.pub
+|4,39,1,0,1731324629,"~/id_rsa.pub"
+-'  1  13  ~/id_rsa.pub
+|4,39,1,13,1731320452,"~/id_rsa.pub"
+-'  1  13  ~/id_rsa.pub
+|4,39,1,13,1731320452,"~/id_rsa.pub"
 -'  1  13  ~/id_rsa.pub
 |4,39,1,13,1731320452,"~/id_rsa.pub"
 -'  1  13  ~/id_rsa.pub
@@ -64,6 +78,14 @@
 -'  1  0  ~/id_rsa.pub
 |4,39,1,0,1731306754,"~/id_rsa.pub"
 -'  1  0  ~/id_rsa.pub
+|4,39,1,0,1731306754,"~/id_rsa.pub"
+-'  1  0  ~/id_rsa.pub
+|4,39,1,0,1731306754,"~/id_rsa.pub"
+-'  1  0  ~/id_rsa.pub
+|4,39,1,0,1731306740,"~/id_rsa.pub"
+-'  1  0  ~/id_rsa.pub
+|4,39,1,0,1731306740,"~/id_rsa.pub"
+-'  1  0  ~/id_rsa.pub
 |4,39,1,0,1731306740,"~/id_rsa.pub"
 -'  1  0  ~/id_rsa.pub
 |4,39,1,0,1731306740,"~/id_rsa.pub"
@@ -71,32 +93,10 @@
 |4,39,1,0,1731306682,"~/id_rsa.pub"
 -'  1  0  ~/id_rsa.pub
 |4,39,1,0,1731306682,"~/id_rsa.pub"
--'  1  0  ~/id_rsa.pubvim
-|4,39,1,0,1731306254,"~/id_rsa.pubvim"
--'  1  0  ~/id_rsa.pubvim
-|4,39,1,0,1731306254,"~/id_rsa.pubvim"
--'  1  0  ~/id_rsa.pubvim
-|4,39,1,0,1731306254,"~/id_rsa.pubvim"
--'  1  0  ~/id_rsa.pubvim
-|4,39,1,0,1731306254,"~/id_rsa.pubvim"
--'  1  0  ~/id_rsa.pubvim
-|4,39,1,0,1731306254,"~/id_rsa.pubvim"
--'  1  0  ~/id_rsa.pubvim
-|4,39,1,0,1731306254,"~/id_rsa.pubvim"
--'  1  0  ~/id_rsa.pubvim
-|4,39,1,0,1731306254,"~/id_rsa.pubvim"
--'  1  0  ~/id_rsa.pubvim
-|4,39,1,0,1731306254,"~/id_rsa.pubvim"
--'  1  0  ~/id_rsa.pubvim
-|4,39,1,0,1731306254,"~/id_rsa.pubvim"
--'  1  0  ~/id_rsa.pubvim
-|4,39,1,0,1731306254,"~/id_rsa.pubvim"
--'  1  0  ~/id_rsa.pubvim
-|4,39,1,0,1731306254,"~/id_rsa.pubvim"
--'  1  0  ~/id_rsa.pubvim
-|4,39,1,0,1731306254,"~/id_rsa.pubvim"
--'  1  0  ~/id_rsa.pubvim
-|4,39,1,0,1731306254,"~/id_rsa.pubvim"
+-'  1  0  ~/id_rsa.pub
+|4,39,1,0,1731306682,"~/id_rsa.pub"
+-'  1  0  ~/id_rsa.pub
+|4,39,1,0,1731306682,"~/id_rsa.pub"
 -'  1  0  ~/id_rsa.pubvim
 |4,39,1,0,1731306254,"~/id_rsa.pubvim"
 -'  1  0  ~/id_rsa.pubvim
@@ -249,8 +249,10 @@
 # History of marks within files (newest to oldest):
 
 > ~/.ssh/id_rsa.pub
-	*	1731325066	0
-	"	1	0
+	*	1731328478	0
+	"	1	13
+	.	1	0
+	+	1	0
 
 > ~/id_rsa.pub
 	*	1731324794	0

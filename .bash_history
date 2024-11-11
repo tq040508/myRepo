@@ -60,3 +60,11 @@ git commit -m "Remove sensitive files"
 git push -f origin master
 mkdir myRepo
 cd myRepo
+mkdir myRepo
+git init
+git remote add origin git@github.com:tq040508/myRepo.git
+git add .
+git commit -m "Initial commit"
+git push -u origin master
+ssh-keygen -t rsa -b 4096 -C "2128043750@qq.com"
+vim ~/.ssh/id_rsa.pub
