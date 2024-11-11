@@ -37,3 +37,15 @@ git remote set-url origin git@github.com:yourName/yourRepo.git
 git remote -v
 git remote set-url origin git@github.com:TQ/myRepo.git
 git push -u origin master
+git remote -v
+git add .
+git commit -m "Initial commit"
+git push -u origin master
+git remote -v
+git push -u origin master
+git remote -v
+git remote set-url origin git@github.com:tq040508/myRepo.git
+git push -u origin master
+nano ~/.ssh/config
+git push -u origin master
+nano ~/.ssh/config
