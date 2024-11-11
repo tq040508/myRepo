@@ -21,3 +21,19 @@ vim ~/.ssh/id_rsa.pub
 ssh -T git@github.com
 git config --global user.name "tq040508"
 git config --global user.email "2128043750@qq.com"
+git remote add origin git@github.com:yourName/yourRepo.git
+cd /home/tq/myproject
+git init
+git remote add origin git@github.com:yourName/yourRepo.git
+git remote -v
+git remote add origin git@github.com:yourName/yourRepo.git
+git add .
+git commit -m "Initial commit"
+git push -u origin master
+ssh -T git@github.com
+git push -u origin master
+git remote -v
+git remote set-url origin git@github.com:yourName/yourRepo.git
+git remote -v
+git remote set-url origin git@github.com:TQ/myRepo.git
+git push -u origin master
