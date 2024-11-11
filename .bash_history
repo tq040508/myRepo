@@ -49,3 +49,14 @@ git push -u origin master
 nano ~/.ssh/config
 git push -u origin master
 nano ~/.ssh/config
+git push -u origin master
+nano ~/.ssh/config
+git push -u origin master
+git log
+git reset --hard <commit-hash>
+rm .ssh/id_rsa
+git add .
+git commit -m "Remove sensitive files"
+git push -f origin master
+mkdir myRepo
+cd myRepo
